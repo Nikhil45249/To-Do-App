@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # To-Do App
 
 A modern To-Do Application built with React.js and Tailwind CSS featuring task management, completion tracking, filtering, and local storage persistence.
@@ -31,3 +32,7 @@ git clone <repository-url>
 cd todo-app
 npm install
 npm run dev
+=======
+# To-Do-App
+Modern To-Do App built with React.js and Tailwind CSS featuring add, delete, complete, and filter task functionality with local storage persistence and a glassmorphism UI.
+>>>>>>> 70c81a0 (Initial commit)
